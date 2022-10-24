@@ -17,7 +17,8 @@ Tietyn ajan jälkeen lopetin verkonskannaamisen.
 
 Rupesin analysoimaan saamania tuloksia
 
- *ensin nähdään sakannauksen numerot 
+ * ensin nähdään sakannauksen numerot 1, 2  & 3
+ 
 
 ![image](https://user-images.githubusercontent.com/93308960/197474494-6ecec966-8213-4037-ae62-10f8c38c8e56.png)
 
