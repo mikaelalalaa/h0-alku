@@ -18,10 +18,14 @@ Tietyn ajan jälkeen lopetin verkonskannaamisen.
 Rupesin analysoimaan saamania tuloksia
 
  * ensin nähdään sakannauksen numerot 1, 2  & 3
- 
+ * seuraavaksi on aika eli milloin skannaus on tehty päivämäärä 2022-10-24 ja kellon aika 10.47
+ * ajan jälkeen lähde eli IP-osoite ja broadcast
+ * sitten tulee tietoliikenneprotokolla eli tässä tapauksessa UDP & ARP
+ * protokollan jälkeen tulee pituus
+ * Lopuksi tulee muuta infoa, tässä tapauksessa kahdessa ensimmäisessä kohdassa näkyy UDP payload pituus. Alimmassa näkyy ARP kysely.
 
 ![image](https://user-images.githubusercontent.com/93308960/197474494-6ecec966-8213-4037-ae62-10f8c38c8e56.png)
 
+Tuloksena tuli ARP kysely ja UDP pituus.
 
-![image](https://user-images.githubusercontent.com/93308960/197473492-bb5c6a88-fa12-4cfb-9ea6-17718f98f5ab.png)
 
