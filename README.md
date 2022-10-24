@@ -24,7 +24,7 @@ Rupesin analysoimaan saamania tuloksia
  * protokollan jälkeen tulee pituus
  * Lopuksi tulee muuta infoa, tässä tapauksessa kahdessa ensimmäisessä kohdassa näkyy UDP payload pituus. Alimmassa näkyy ARP kysely.
 
-![image](https://user-images.githubusercontent.com/93308960/197474494-6ecec966-8213-4037-ae62-10f8c38c8e56.png)
+![image](https://user-images.githubusercontent.com/93308960/197478229-8935d939-5b7c-4034-97ce-4567f16315e9.png)
 
 Tuloksena tuli ARP kysely ja UDP pituus.
 
